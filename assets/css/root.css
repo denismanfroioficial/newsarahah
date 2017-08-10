@@ -1,0 +1,14 @@
+:root{
+	/*
+		### Reset
+	*/
+	--font-family-default: sans-serif;
+	/*
+		### Limit
+	*/
+	--limit-content: 1000px;
+	/*
+		## Color
+	*/
+	--color-default: rgba(67, 191, 240, 1);
+}

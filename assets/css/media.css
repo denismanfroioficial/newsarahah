@@ -1,0 +1,10 @@
+@media screen and (max-width: 414px){
+	/*Carousel*/
+	.owl-theme .owl-nav.disabled+.owl-dots{
+		left: 50%; bottom: 1em;
+		-webkit-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+}

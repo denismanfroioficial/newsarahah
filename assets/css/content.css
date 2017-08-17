@@ -8,4 +8,17 @@
 	-ms-flex: 1 100%;
 	-o-flex: 1 100%;
 	flex: 1 100%;
+	position: relative;
+}
+/*Banner*/
+.banner{
+	max-height: 100%;
+	width: 100vw; height: 100vh;
+}
+.opc-banner{
+	max-height: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }

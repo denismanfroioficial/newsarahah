@@ -14,3 +14,6 @@
 @import 'footer.css';
 /*Content*/
 @import 'content.css';
+/*Galeria OWL*/
+@import 'owl.carousel.min.css';
+@import 'owl.theme.default.min.css';

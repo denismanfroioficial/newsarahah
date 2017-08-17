@@ -1,0 +1,7 @@
+#footer-default{
+	background-color: rgba(0,0,0,.1);
+	padding: .5em 1em;
+	color: rgba(0,0,0,.7);
+	letter-spacing: 1px;
+	font-size: .8em;
+}
